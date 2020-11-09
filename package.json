@@ -1,0 +1,14 @@
+{
+  "name": "nodejs-logging-libs-playground",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/dougecomp/nodejs-logging-libs-playground.git",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1",
+    "pino": "^6.7.0"
+  },
+  "devDependencies": {
+    "pino-pretty": "^4.3.0"
+  }
+}
